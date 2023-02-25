@@ -1,0 +1,93 @@
+body {
+    background-color: ;
+}
+
+.search{
+    width:45%;
+    background-color: white;
+    border: 2px solid #555555;
+    color: #000000;
+    padding: 5px;
+    margin-left: 4%;
+    margin-top: 1%;
+    margin-bottom:1%;
+    text-align: center;
+    font-size: 12px;
+    transition-duration: 0.2s;
+    border-radius: 10px;
+}
+.search:hover {
+    background-color: #555555;
+    color: white;
+    border: none;
+}
+.clear{
+    width:45%;
+    background-color: white;
+    border: 2px solid #555555;
+    color: #000000;
+    padding: 5px;
+    margin-right: 4%;
+    margin-top: 1%;
+    margin-bottom:1%;
+    text-align: center;
+    font-size: 12px;
+    transition-duration: 0.2s;
+    border-radius: 10px;
+}
+.clear:hover {
+    background-color: #555555;
+    color: white;
+    border: none;
+}
+
+.input_url{
+    width: 89%;
+    height: 20px;
+    background-color: #FFFFFF;
+    margin-left: 4%;
+    margin-right:4%;
+    padding: 5px;
+    border: 2px solid #555555;
+    border-radius: 10px;
+}
+
+.info_view{
+    border: 2px solid #555555;
+    margin-left: 4%;
+    width:90%;
+    height:400px;
+    border-radius:10px;
+    position: relative;
+}
+
+.img_info{
+    border-radius: 10px;
+    width:94%;
+    height:67%;
+    position: absolute;
+    box-shadow: 2px 4px 5px #000;
+    top: 3%;
+    left:3%;
+}
+
+.op_info{
+    width: 93%;
+    height:23%;
+    position: absolute;
+    bottom:3%;
+    right:3%;
+}
+.download_inf p{
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 4%;
+}
+.download_inf h3{
+    text-align: center;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+.op_info p{
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 4%;
+}
